@@ -1,0 +1,4 @@
+git config --global user.name "ibroximovraxmatulloh"
+git config --global user.email "ibroximovraxmatulloh69@gmail.com"
+git add fayl.txt
+git commit -m "jo'natdim"
